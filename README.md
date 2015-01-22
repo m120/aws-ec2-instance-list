@@ -45,7 +45,7 @@ AWS Segument-02:AKIAJjdo30dj30k:5ns5ddkldldld3jd049dpdpddF:ap-northeast-1
 
 ## Using:
 ```bash
-$ python ./aws_ec2_info.py {craedentials file}
+$ python ./aws_ec2_inst_list.py {craedentials file}
 ```
 ---
 *I am a Python noob :-)* 
